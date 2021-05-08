@@ -1,7 +1,7 @@
 <H1>Yandex_project: Credit score</H1>
 
-<H2>Description</H2>
+<H2>Описание</H2>
 
-| Project name         | Description               | Libraries           |
+| Название проекта         | Описание               | Библиотеки           |
 | :------------------------| :--------------------- |:----------------------------------|
-| [Credit score](credit_score) | Business request from bank: How the marital status of clients and the number of children in theirs families affects solvency | Collections, Matplotlib, Numpy, Pymystem3, Seaborn, Pandas|
+| [Кредитный скоринг](credit_score) | Бизнес запрос из банка : как семейный статус и количество детей влияет на платежеспособность клиентов и возврат кредита в срок. | Collections, Matplotlib, Numpy, Pymystem3, Seaborn, Pandas|
