@@ -5,7 +5,8 @@
 
 | Название проекта         | Описание               | Используемые библиотеки           |
 | :------------------------| :--------------------- |:----------------------------------|
-| [Кредитный скоринг](https://github.com/MargaritaGurevich/Yandex.Praktikum/blob/main/1_credit_score/credit_score.ipynb) | Aнализ статистики о платежеспособности клиентов банка для ответа на вопрос о влиянии семейного положения и количества детей клиента на факт погашения кредита в срок | Collections, Matplotlib, Numpy, Pymystem3, Seaborn, Pandas|
+| [Кредитный скоринг для банка](https://github.com/MargaritaGurevich/Yandex.Praktikum/blob/main/1_credit_score/credit_score.ipynb) | Aнализ статистики о платежеспособности клиентов банка для ответа на вопрос о влиянии семейного положения и количества детей клиента на факт погашения кредита в срок | Collections, Matplotlib, Numpy, Pymystem3, Seaborn, Pandas|
+| [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/MargaritaGurevich/Yandex.Praktikum/blob/main/3_property_research/property_research.ipynb)| На основе сервиса Яндекс.Недвижимость, разработать алгоритм определения рыночной стоимости объектов жилой недвижимости |Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных|
 | [Рыночная стоимость объекта](market_price_of_object) | Исследование объявлений о продаже квартир для определения рыночной стоимости объекта | Datetime, Matplotlib, Numpy, Seaborn, Pandas|
 | [Тариф телеком](tariff_revenue)| Определение перспективного тарифа для телеком компании с помощью проверки гипотез| Datetime, Math, Matplotlib.pyplot, Numpy, Pandas, Seaborn, Stats|
 | [Рекламная компания по компьютерным играм](market_of_games)| Развитие рекламной компании интернет-магазина по компьютерным играм с учётом регионального распределения| Datetime, Math, Matplotlib.pyplot, Numpy, Pandas, Pandas_profiling, Seaborn, Stats|
